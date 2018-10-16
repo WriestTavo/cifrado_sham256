@@ -44,3 +44,4 @@ else echo "UPS... ERROR";
 echo "<br>";
 
 ?>
+<script type="text/javascript" src="mensaje.js"></script>
